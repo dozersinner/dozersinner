@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.tumblr.com/lucifers-charade/815912271634137088/dozer-theme-pack-dividers-banner-icons-info?source=share">credit for da image!</a>
+  <a href="https://www.tumblr.com/lucifers-charade/815912271634137088/dozer-theme-pack-dividers-banner-icons-info?source=share">credit for da header!</a>
 <br>
 <div align="center">
   <img source="<img width="1000" height="191" alt="dozer1" src="https://github.com/user-attachments/assets/674b34e5-afa8-4549-bb76-6a78e452df67" />
