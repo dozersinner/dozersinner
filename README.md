@@ -12,7 +12,11 @@
 <br>
 <div align="center">
   <img source=<img width="1280" height="720" alt="dozer2" src="https://github.com/user-attachments/assets/90ff876a-c895-418e-bef7-22c318feb296" />
-
+<br>
+<br>
+<div align="center">
+  ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+<br>
 <br>
 <div align="center">
   <img source=<img width="540" height="238" alt="dozerrrr" src="https://github.com/user-attachments/assets/a98308ad-9c15-4cea-b1ff-4eda35908eb2" />
